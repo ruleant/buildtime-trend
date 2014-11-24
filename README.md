@@ -1,18 +1,22 @@
 Buildtime trend
 ===============
 
+This project was split and moved to different repo's
+----------------------------------------------------
+
+This repo will not be updated anymore, follow further development here :
+
+- [Buildtime trend client](https://github.com/buildtimetrend/python-client)
+- [Buildtime trend library](https://github.com/buildtimetrend/python-lib)
+ 
+Documentation for version 0.1.2 below :
+
+
 Visualise what's trending in your build process
 
 [![Buildtime trend](http://img.shields.io/badge/release-v0.1.2-blue.svg)](https://github.com/ruleant/buildtime-trend/releases/latest)
 [![Buildtime trend](http://img.shields.io/badge/dev-v0.2--dev-blue.svg)](https://github.com/ruleant/buildtime-trend/zipball/master)
-[![Build Status](https://travis-ci.org/ruleant/buildtime-trend.svg)](https://travis-ci.org/ruleant/buildtime-trend)
-[![Coverage Status](https://coveralls.io/repos/ruleant/buildtime-trend/badge.png?branch=master)](https://coveralls.io/r/ruleant/buildtime-trend?branch=master)
-[![Code Health](https://landscape.io/github/ruleant/buildtime-trend/master/landscape.png)](https://landscape.io/github/ruleant/buildtime-trend/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ruleant/buildtime-trend/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ruleant/buildtime-trend/?branch=master)
-[![Buildtime trend](http://img.shields.io/badge/buildtime-trend-blue.svg)](http://ruleant.github.io/buildtime-trend/buildtime-trend/)
 [![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/ruleant/buildtime-trend)
-[![status](https://sourcegraph.com/api/repos/github.com/ruleant/buildtime-trend/badges/status.png)](https://sourcegraph.com/github.com/ruleant/buildtime-trend)
-
 
 Features
 --------
