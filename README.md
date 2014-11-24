@@ -1,6 +1,3 @@
-Buildtime trend
-===============
-
 This project was split and moved to different repo's
 ----------------------------------------------------
 
@@ -11,6 +8,8 @@ This repo will not be updated anymore, follow further development here :
  
 Documentation for version 0.1.2 below :
 
+Buildtime trend
+===============
 
 Visualise what's trending in your build process
 
