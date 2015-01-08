@@ -3,8 +3,9 @@ This project was split and moved to different repo's
 
 This repo will not be updated anymore, follow further development here :
 
-- [Buildtime trend client](https://github.com/buildtimetrend/python-client)
 - [Buildtime trend library](https://github.com/buildtimetrend/python-lib)
+- [Buildtime trend client](https://github.com/buildtimetrend/python-client)
+- [Buildtime trend service](https://github.com/buildtimetrend/service)
  
 Documentation for version 0.1.2 below :
 
