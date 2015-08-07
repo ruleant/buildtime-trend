@@ -6,6 +6,7 @@ This repo will not be updated anymore, follow further development here :
 - [Buildtime trend library](https://github.com/buildtimetrend/python-lib)
 - [Buildtime trend client](https://github.com/buildtimetrend/python-client)
 - [Buildtime trend service](https://github.com/buildtimetrend/service)
+- [Buildtime trend dashboard](https://github.com/buildtimetrend/dashboard)
  
 Documentation for version 0.1.2 below :
 
